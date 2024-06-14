@@ -1,0 +1,166 @@
+[
+    {
+        "id": 0,
+        "name": "Captain America",
+        "img": "./images/captain-america.jpg",
+        "history": "Steve Rogers, initially a frail young man, was transformed into the peak of human perfection by an experimental serum to aid the United States' efforts in World War II. As Captain America, he became a symbol of freedom and justice, battling foes like the Red Skull. After being frozen in ice and later revived, he struggles with his place in the modern world while leading the Avengers.",
+        "Skills": [
+            {
+                "Effects of the Super Soldier Serum": "By taking the Super Soldier Serum, Steve Rogers gained superhuman strength, endurance, agility, speed, reflexes and healing abilities."
+            },
+            {
+                "Peak Human Potential": "Captain America's strength, stamina, agility, speed, reflexes, durability and healing are at the highest limits of natural human potential."
+            },
+            {
+                "Tactical Intelligence": "Captain America is an expert in battle strategy, inventory and field tactics."
+            },
+            {
+                "Shield Mastery": "Captain America's virtually unbreakable shield can be used in both defense and offense, and he can throw this weapon expertly."
+            },
+            {
+                "Leadership": "Captain America has led superhero teams such as the Avengers and led them to success in countless battles."
+            },
+            {
+                "Martial Arts Expert": "Trained and experienced in various martial arts."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Iron-Man",
+        "img": "./images/iron-man.jpg",
+        "history": "Tony Stark, a billionaire industrialist and genius inventor, is kidnapped and forced to build a devastating weapon. Instead, using his intelligence and ingenuity, Stark builds a high-tech suit of armor and escapes captivity. Upon returning to America, he refines the suit and uses it to combat crime and terrorism as Iron Man.",
+        "Skills": [
+            {
+                "Genius-Level Intellect": "Tony Stark is an inventive genius who is able to invent various technologies."
+            },
+            {
+                "Powered Armor Suit": "As Iron Man, Stark wears a sophisticated suit of powered armor that grants him superhuman strength, durability, and the ability to fly."
+            },
+            {
+                "Wealth and Resources": "Stark has access to a vast fortune and a wide array of advanced technology and resources."
+            },
+            {
+                "Expert Combatant": "Stark is well-versed in hand-to-hand combat, relying heavily on the combat systems of his suit."
+            },
+            {
+                "Inventor and Engineer": "Stark is an accomplished inventor and engineer, capable of designing and building new technology and gadgets."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hulk",
+        "img": "./images/hulk.jpg",
+        "history": "Dr. Bruce Banner is a genius scientist who, due to exposure to gamma radiation, transforms into the Hulk when subjected to emotional stress, at or against his will, often leading to destructive rampages.",
+        "Skills": [
+            {
+                "Superhuman Strength": "The Hulk possesses an incredible level of superhuman physical ability."
+            },
+            {
+                "Invulnerability": "His body is resistant to most forms of injury or damage."
+            },
+            {
+                "Regenerative Healing Factor": "The Hulk is capable of regenerating damaged or destroyed areas of his body with far greater speed and efficiency than an ordinary human."
+            },
+            {
+                "Gamma Radiation Emission": "The Hulk can emit gamma radiation from his body, particularly when angry."
+            },
+            {
+                "Adaptation to Hostile Environments": "The Hulk has the ability to adapt to inhospitable environments, such as breathing underwater or moving through space."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Thor",
+        "img": "./images/thor.jpg",
+        "history": "Thor is the Norse god of thunder and a founding member of the Avengers. As the son of Odin and the elder goddess Gaea, Thor is one of the strongest Asgardians. He wields the enchanted hammer Mjolnir, which grants him the ability to fly and manipulate weather amongst his other superhuman attributes.",
+        "Skills": [
+            {
+                "Asgardian Physiology": "Thor possesses physical abilities far superior to those of normal humans, including immense strength, durability, and longevity."
+            },
+            {
+                "Weather Manipulation": "Thor has the ability to control the weather, including summoning storms and lightning."
+            },
+            {
+                "Flight": "By throwing his hammer Mjolnir, Thor can fly at high speeds."
+            },
+            {
+                "Expert Combatant": "Thor is a skilled warrior, trained in the arts of war and proficient in hand-to-hand combat."
+            },
+            {
+                "Mjolnir Mastery": "Thor's hammer, Mjolnir, can only be wielded by those deemed worthy, and it grants him numerous mystical abilities."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Wanda",
+        "img": "./images/wanda.jpg",
+        "history": "Wanda Maximoff, also known as the Scarlet Witch, is a powerful sorceress with the ability to manipulate chaos magic, engage in telepathy and telekinesis, and alter reality.",
+        "Skills": [
+            {
+                "Chaos Magic": "Wanda's primary power is the ability to manipulate chaos magic, which allows her to alter reality."
+            },
+            {
+                "Telekinesis": "She can move objects with her mind and exert force fields."
+            },
+            {
+                "Telepathy": "Wanda can read minds and project her thoughts into the minds of others."
+            },
+            {
+                "Reality Warping": "She has the power to change the fabric of reality to her will."
+            },
+            {
+                "Energy Manipulation": "Wanda can manipulate magical energy for a variety of effects, such as energy blasts and shields."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Dr. Strange",
+        "img": "./images/strange.jpg",
+        "history": "Dr. Stephen Strange was a brilliant but egotistical surgeon who, after a car accident that led to a journey of healing, discovered the hidden world of magic and alternate dimensions. Becoming a student of the Ancient One, Strange became the Sorcerer Supreme, the primary protector of Earth against magical and mystical threats.",
+        "Skills": [
+            {
+                "Mastery of Magic": "Dr. Strange can use magical energy for various effects, such as energy blasts, shields, and astral projection."
+            },
+            {
+                "Astral Projection": "He can separate his spirit from his body, allowing him to travel and communicate with others while in an intangible state."
+            },
+            {
+                "Time Manipulation": "With the Eye of Agamotto, Dr. Strange can manipulate time, including reversing or accelerating the flow of time."
+            },
+            {
+                "Interdimensional Travel": "Dr. Strange can travel between different dimensions and realms."
+            },
+            {
+                "Expert Martial Artist": "He is trained in multiple martial arts disciplines."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Spider-Man",
+        "img": "./images/spider-man.jpg",
+        "history": "Peter Parker was bitten by a radioactive spider as a teenager, granting him spider-like powers. After the death of his Uncle Ben, Peter learned that 'With great power, comes great responsibility.' He uses his powers to fight crime in New York City as Spider-Man.",
+        "Skills": [
+            {
+                "Spider-Sense": "Peter has a precognitive awareness of danger, known as his spider-sense."
+            },
+            {
+                "Wall-Crawling": "He has the ability to adhere to walls and climb them without any support."
+            },
+            {
+                "Superhuman Strength": "Spider-Man possesses superhuman strength, enabling him to perform incredible feats."
+            },
+            {
+                "Agility and Reflexes": "His agility and reflexes are similarly enhanced to superhuman levels."
+            },
+            {
+                "Web-Slinging": "Using wrist-mounted web-shooters, Spider-Man can shoot strong spider-web strings to swing from buildings, ensnare enemies, and create web constructs."
+            }
+        ]
+    }
+]
